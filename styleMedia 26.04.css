@@ -1,0 +1,25 @@
+@media screen and (max-width: 900px) {
+    
+.wrap{
+
+    flex-direction: column;
+}
+
+.box{
+
+   width: 100vh; 
+   height: 60vh;
+   flex-direction: column;
+}
+
+.main{
+    width: 100vh;
+    height: 30vh;
+}
+
+.aside{
+    width: 100vw;
+    height: 30vh;
+}
+
+} 

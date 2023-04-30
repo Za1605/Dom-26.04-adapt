@@ -1,0 +1,74 @@
+body{
+margin: 0;
+
+}
+.A{
+    width: 100vw;
+    height: 20vh;
+    background-color: blue;
+     
+}
+.wrap{
+    display: flex;
+    width: 100vw;
+    height: 80vh;
+}
+
+
+
+.box{
+    width: 80%;
+    height: 100%;
+    
+}
+
+.main{
+width: 100%;
+height: 50%;
+background-color: brown;
+border: 4px solid darkblue;
+}
+
+.b{
+    width: 104%;
+    height: 50%;
+    display: flex;
+    
+    
+}
+
+.c{
+    width: 34%;
+    height: 100%;
+    background-color: green;
+    border: 6px solid grey;
+   
+    
+}
+.d{
+
+    width: 34%;
+    height: 100%;
+    background-color: green;
+    border: 6px solid grey;
+    
+   
+    
+}
+.e{
+    width: 34%;
+    height: 100%;
+    background-color: green;
+    border: 6px solid grey;
+    
+}
+.aside{
+    width: 20%;
+    height: 100%;
+    background-color: cornflowerblue;
+    border: 4px solid whitesmoke;
+  
+}
+
+
+
